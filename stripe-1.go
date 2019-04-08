@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-func main() {
-	n, r := "\n", "/\n"
+var hrt string = "/\n"
 
-	fmt.Printf("/ \\/ \\"+n+"\\    "+r+" \\  "+r+"  \\/")
+func main() {
+	fmt.Printf("/ \\/ \\\n\\    "+hrt+" \\  "+hrt+"  \\/")
 }

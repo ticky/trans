@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("you're valid <3")
+	n, r := "\n", "/\n"
+
+	fmt.Printf("/ \\/ \\"+n+"\\    "+r+" \\  "+r+"  \\/")
 }

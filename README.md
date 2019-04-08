@@ -15,3 +15,5 @@ Yes, they all at least run, some even do something!
 ## Prior Art
 
 Idea shamelessly pinched from [spacekookie/gay](https://github.com/spacekookie/gay)
+
+Other GitHub Repo Language pride flags: [alexwlchan/asexual](https://github.com/alexwlchan/asexual), [Geo1088/bi](https://github.com/Geo1088/bi), [mattbischoff/bisexual](https://github.com/mattbischoff/bisexual), [TartanLlama/non-binary](https://github.com/TartanLlama/non-binary), [issyl0/pan](https://github.com/issyl0/pan)
